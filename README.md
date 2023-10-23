@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amin Nur Azziz</h1>
 <h3 align="center">A passionate Fullstack Developer from Politeknik Negeri Malang and always learn new think</h3>
-<h3 align="center">IISMA Awardees at Deggendorf Institute of Technology</h3>
+<h3 align="center">IISMA Awardee at Deggendorf Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminnurazziz&label=Profile%20views&color=0e75b6&style=flat" alt="aminnurazziz" /> </p>
 
