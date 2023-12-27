@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminnurazziz&label=Profile%20views&color=0e75b6&style=flat" alt="aminnurazziz" /> </p>
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, etc...**
+- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, NestJS, PostgreSQL, MySQL, etc...**
 
 - 📫 You can contact me in **2131710034@student.polinema.ac.id**
 
